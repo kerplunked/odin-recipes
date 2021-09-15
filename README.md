@@ -1,2 +1,4 @@
 # odin-recipes
-1st recipe site
+Recipe website
+
+The first website created by me.
