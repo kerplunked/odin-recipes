@@ -2,3 +2,10 @@
     font-family: cursive;
     background-color: brown;
 }
+
+div li {
+    font-size: 28px;
+    border-left-style: solid;
+    border-color: red;
+    background-color: rgba(255, 0, 0, 0.082)
+}
