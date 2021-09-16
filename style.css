@@ -1,3 +1,13 @@
+h1 {
+    color: chocolate;
+}
+
+h2 {
+    color: rebeccapurple;
+    background-color: seagreen;
+}
+
+
 .main {
     font-family: cursive;
     background-color: brown;
@@ -8,4 +18,8 @@ div li {
     border-left-style: solid;
     border-color: red;
     background-color: rgba(255, 0, 0, 0.082)
+}
+
+* {
+    font-family: serif;
 }
