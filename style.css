@@ -10,7 +10,8 @@ h1 {
 
 
 h2 {
-    
+    padding: 6px;
+    width: 400px;
     color: rebeccapurple;
     background-color: seagreen;
 
@@ -32,10 +33,12 @@ h2 {
 }
 
 div li {
+    width: 300px;
     font-size: 28px;
     border-left-style: solid;
     border-color: red;
     background-color: rgba(255, 0, 0, 0.082)
+    
 }
 
 * {
@@ -43,6 +46,8 @@ div li {
 }
 
 .iborder {
+    padding: 20px;
+    width: 650px;
     border-style: groove;
     border-color: orange;
     border-width: 6px;
