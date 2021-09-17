@@ -1,5 +1,6 @@
 h1 {
     color: chocolate;
+
 }
 
 h2 {
@@ -9,8 +10,13 @@ h2 {
 
 
 .main {
+    color: green;
     font-family: cursive;
-    background-color: brown;
+    background-color: rgb(180, 107, 177);
+    padding: 20px;
+    border: 20px solid green;
+    margin: 50px;
+    width: 200px;
 }
 
 div li {
