@@ -55,10 +55,10 @@ img {
 }
 
 .header3 {
-    
+    background-color: rgba(222, 184, 135, 0.692);
     border-style: double;
     border-color: black;
     display:inline-block;
-    padding: 11px;
+    padding: 0px 7px;
 
 }
