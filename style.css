@@ -16,10 +16,6 @@ h2 {
     background-color: seagreen;
 
 }
-    
-    
-    
-  
 
 
 .main {
@@ -56,4 +52,13 @@ div li {
 img {
     border-style: outset;
     border-color: black;
+}
+
+.header3 {
+    
+    border-style: double;
+    border-color: black;
+    display:inline-block;
+    padding: 11px;
+
 }
