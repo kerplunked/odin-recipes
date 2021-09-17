@@ -54,11 +54,13 @@ img {
     border-color: black;
 }
 
-.header3 {
+h3 {
+    font-family: 'Times New Roman';
     background-color: rgba(222, 184, 135, 0.692);
     border-style: double;
     border-color: black;
+    border-width: 6px;
     display:inline-block;
-    padding: 0px 7px;
+    padding: 5px 7px;
 
 }
