@@ -1,12 +1,24 @@
 h1 {
     color: chocolate;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin: 50px;
+    width: 200px;
+    border: 2px solid black;
 
 }
+
 
 h2 {
+    
     color: rebeccapurple;
     background-color: seagreen;
+
 }
+    
+    
+    
+  
 
 
 .main {
