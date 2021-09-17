@@ -23,3 +23,14 @@ div li {
 * {
     font-family: serif;
 }
+
+.iborder {
+    border-style: groove;
+    border-color: orange;
+    border-width: 6px;
+}
+
+img {
+    border-style: outset;
+    border-color: black;
+}
